@@ -1,2 +1,2 @@
-# Vertex-Client.github.io
-Website for Vertex Client - Hacked Client for Minecraft (PE)
+
+Website for Vertex Client - Hacked Client for Minecraft 
